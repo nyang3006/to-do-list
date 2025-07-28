@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Do homework",
+        "isCompleted": false
+    },
+    {
+        "name": "Put dishes in the dish washer",
+        "isCompleted": true
+    },
+    {
+        "name": "Take out clothes from the dryer",
+        "isCompleted": false
+    },
+    {
+        "name": "Go the supermarket and get milk",
+        "isCompleted": false
+    }
+]
